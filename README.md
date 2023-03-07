@@ -30,10 +30,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/A9RRump"><img src="https://i.imgur.com/A9RRump.png" title="source: imgur.com"</a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This image will be produced once all the prerequisite steps have been followed. You will have to first open the IIS as an Admin. Refresh the server by clicking on the VM connection, click on sites, click on default website and then finally click on the Browse 80 button which will then forward you to the page overhead.
 </p>
 <br />
 
