@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <a href="https://imgur.com/A9RRump"><img src="https://i.imgur.com/A9RRump.png" title="source: imgur.com"</a>
 </p>
 <p>
-This image will be produced once all the prerequisite steps have been followed. You will have to first open the IIS as an Admin. Refresh the server by clicking on the VM connection, click on sites, click on default website and then finally click on the Browse 80 button which will then forward you to the page overhead.
+This image will be produced once all the prerequisite steps have been followed. You will have to first open the IIS as an Admin. Refresh the server by clicking on the VM connection, click on Sites, click on Default Website and then finally click on the Browse 80 button which will then forward you to the page overhead.
 </p>
 <br />
 
