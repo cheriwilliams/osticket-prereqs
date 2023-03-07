@@ -19,11 +19,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Enable IIS in Windows With CGI
+- Download and Install PHP Manager for IIS
+- Download and Install Rewrite Module
+- Create directory C:\PHP
+- Download and unzip PHP into PHP folder on C:\PHP
+- Install C++
 - Install MySQL
-- Setup Username & Password
-- Install C++ 
 
 <h2>Installation Steps</h2>
 
