@@ -64,6 +64,30 @@ Now a PHP folder must be created in the C directory to unzip PHP into.
 <br />
 
 <p>
+<img src=https://i.imgur.com/gxbYK3H.jpg/>
+</p>
+<p>
+Unzip the PHP files into the PHP folder on the C directory.  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+words
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+words
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -72,4 +96,9 @@ words
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+words
+</p>
+<br />
