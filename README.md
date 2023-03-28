@@ -56,10 +56,10 @@ Once the PHP Manager is done downloading, the Rewrite Module must be installed. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/adHsqZl.jpg/>
 </p>
 <p>
-words
+Now a PHP folder must be created in the C directory to unzip PHP into.   
 </p>
 <br />
 
