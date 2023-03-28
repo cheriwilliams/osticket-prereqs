@@ -72,10 +72,10 @@ Unzip the PHP files into the PHP folder on the C directory.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src=https://i.imgur.com/aYMwkHG.jpg/>
 </p>
 <p>
-words
+Download Microsoft Visual C++, follow installation instructions. 
 </p>
 <br />
 
