@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<a href="https://imgur.com/A9RRump"><img src="https://i.imgur.com/A9RRump.png" title="source: imgur.com"</a>
+<a href="https://i.imgur.com/yqW2H7t.jpg"><img src="https://i.imgur.com/A9RRump.png" title="source: imgur.com"</a>
 </p>
 <p>
 Navigate to Control Panel, click Programs, click "Turn Windows Features On or Off" and then scroll to Internet Information Services and mark the checkbox. Click the IIS tab, then click the World Wide Web Services, click the Application Development Features. Lastly mark the CGI box to enable the feature.  
