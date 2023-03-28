@@ -96,9 +96,9 @@ Open Internet Information Services as an Admin and doubleclick PHP Manager.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Fu13HfZ.jpg/>
 </p>
 <p>
-words
+Click Register New PHP Manager, click the path to the C directory, click the PHP folder, and then finally click the php-cgi executable. The prerequisites to the osTicketing system are installed.  
 </p>
 <br />
