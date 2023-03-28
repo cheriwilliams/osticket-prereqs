@@ -26,6 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and unzip PHP into PHP folder on C:\PHP
 - Install C++
 - Install MySQL
+- Open IIS as an Admin
+- Register PHP
 
 <h2>Installation Steps</h2>
 
