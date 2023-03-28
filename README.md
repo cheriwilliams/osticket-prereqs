@@ -72,26 +72,26 @@ Unzip the PHP files into the PHP folder on the C directory.
 <br />
 
 <p>
-<img src=https://i.imgur.com/aYMwkHG.jpg/>
+<img src=https://i.imgur.com/mU8KP2I.jpg/>
 </p>
 <p>
-Download Microsoft Visual C++, follow installation instructions. 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-</p>
-<p>
-words
+Download Microsoft Visual C++, and then follow installation instructions. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/3WBUzdp.jpg/>
 </p>
 <p>
-words
+Download MySQL and install. After installation, launch configuartion wizard, click the standard configuration option and choose a Password. 
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/oqM47jW.jpg/>
+</p>
+<p>
+Open Internet Information Services as an Admin and doubleclick PHP Manager. 
 </p>
 <br />
 
