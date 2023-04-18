@@ -80,7 +80,7 @@ Download Microsoft Visual C++, and then follow installation instructions.
 <br />
 
 <p>
-<img src=https://i.imgur.com/3WBUzdp.jpg/>
+<img src=https://i.imgur.com/4PXcE7X.jpg/>
 </p>
 <p>
 Download MySQL and install. After installation, launch configuartion wizard, click the standard configuration option and choose a Password. 
